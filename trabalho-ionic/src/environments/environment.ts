@@ -5,14 +5,14 @@
 export const environment = {
   production: false,
   firebaseConfig : {
-    apiKey: "AIzaSyBKXO3fsr7imsjwg7MVS1TqIpi5vunnNHY",
-    authDomain: "fir-doprojeto.firebaseapp.com",
-    databaseURL: "https://fir-doprojeto.firebaseio.com",
-    projectId: "fir-doprojeto",
-    storageBucket: "fir-doprojeto.appspot.com",
-    messagingSenderId: "782847437651",
-    appId: "1:782847437651:web:b8c8c278ee9e4079"
-  }
+   apiKey: "AIzaSyAr2vvKpiMjsSIc-GZ7pubihpws3hAyd64",
+  authDomain: "ionic-victor.firebaseapp.com",
+  databaseURL: "https://ionic-victor.firebaseio.com",
+  projectId: "ionic-victor",
+  storageBucket: "ionic-victor.appspot.com",
+  messagingSenderId: "984717939587",
+  appId: "1:984717939587:web:0039f95d360dcc14"
+},
   };
 /*
  * For easier debugging in development mode, you can import the following file
